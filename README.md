@@ -13,4 +13,4 @@ Update log
 
 03/06/2022 - have read up to the middle of Chapter 3 and organized it.
 
-03/10/2022 - updated O()
+03/10/2022 - updated O().
