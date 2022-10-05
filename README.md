@@ -3,7 +3,7 @@ After reading "Guide to Competitive Programming (Learning and Improving Algorith
 
 
 *Notion Link*
-https://misty-amusement-537.notion.site/31abc221d8d44e3296aa644f133b87d9
+https://potatosheep.notion.site/31abc221d8d44e3296aa644f133b87d9
 
 
 
